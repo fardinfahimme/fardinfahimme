@@ -24,8 +24,8 @@
 ---
 
 ### 🔗 Direct Links
-- **LinkedIn:** [mdfardinfahim](https://www.linkedin.com/in/fardinfahimme)
+- **LinkedIn:** [Fardin Fahim](https://www.linkedin.com/in/fardinfahimme)
 - **Facebook:** [Fardin Fahim](https://www.facebook.com/profile.php?id=61582122892856)
-- **X (Twitter):** [@fardinfahimme](https://x.com/fardinfahimme)
-- **Instagram:** [@fardinfahimme](https://www.instagram.com/fardinfahimme/)
-- **YouTube:** [@fardinfahimme](https://youtube.com/@fardinfahimme)
+- **X (Twitter):** [Fardin Fahim](https://x.com/fardinfahimme)
+- **Instagram:** [Fardin Fahim](https://www.instagram.com/fardinfahimme/)
+- **YouTube:** [Fardin Fahim](https://youtube.com/@fardinfahimme)
