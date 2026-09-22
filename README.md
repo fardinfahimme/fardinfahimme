@@ -15,7 +15,7 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdfardinfahim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardinfahimme)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61582122892856)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fardinfahimme)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fardinfahimme/)
@@ -24,7 +24,7 @@
 ---
 
 ### 🔗 Direct Links
-- **LinkedIn:** [mdfardinfahim](https://www.linkedin.com/in/mdfardinfahim)
+- **LinkedIn:** [mdfardinfahim](https://www.linkedin.com/in/fardinfahimme)
 - **Facebook:** [Fardin Fahim](https://www.facebook.com/profile.php?id=61582122892856)
 - **X (Twitter):** [@fardinfahimme](https://x.com/fardinfahimme)
 - **Instagram:** [@fardinfahimme](https://www.instagram.com/fardinfahimme/)
